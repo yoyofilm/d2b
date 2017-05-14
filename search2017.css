@@ -1,11 +1,11 @@
-html, body {margin: 0; padding: 0; border: 0; font-size: 100%;}
+html, body {margin: 0; padding: 0; border: 0; font-size: 64px;}
 
 body {font: normal 62.5%/1.7em "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Tahoma, sans-serif; color: #f6f6f6; padding: 40px;}
 
 /***Form Styles***/
 #search_form {background: #261dc6; position: relative; padding: 10px 190px 10px 10px; border: 3px solid #c41d1d; -webkit-border-radius: 10px; -moz-border-radius: 10px; -o-border-radius: 10px; border-radius: 10px; box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.5), inset 0px 0px 5px 0px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.5), inset 0px 0px 5px 0px rgba(0, 0, 0, 0.5); -webkit-box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.5), inset 0px 0px 5px 0px rgba(0, 0, 0, 0.5);}
 
-#search_text {font-size: 20px; color: #5e5e5e; float: left; width: 100%; height: 40px; margin: 0; padding: 5px 10px 5px 10px; border: none; webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px; box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.5); -moz-box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.5); -webkit-box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.5);}
+#search_text {font-size: 20px; color: #5e5e5e; float: left; width: 80%; height: 40px; margin: 0; padding: 5px 10px 5px 10px; border: none; webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px; box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.5); -moz-box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.5); -webkit-box-shadow: inset 0px 0px 2px 0px rgba(0, 0, 0, 0.5);}
 
 #search_text:focus {background: #ecf5fd;}
 
